@@ -1,0 +1,18 @@
+- Overskuelig forside med navn og uddannelse
+    AF Marcus W (Data- og kommunikationsuddannelsen med speciale i programmering)
+- Autogeneret indholdsfortegnelse
+    SE TEC.sql
+- Indledning (Hvad går opgaven ud på)
+    LAVE ET SQL SCRIPT
+- Dokumentation af kode og sammensætning
+    SE TEC.sql
+- Beskriv processen undervejs. Du skal bland andet beskrive hvad din kode gør og dens
+    Jeg så den 44 minutters video fra opgaven og lavede TEC.sql
+        - relationer til andre dele af koden og hvorfor du har valgt at gøre som du gør.
+            ChatGPT er tilfres
+- Sammenlign din kode med dine kolleger og forklar nogle forskelle, som munder ud i samme resultat
+    Det kan jeg ikke da jeg er udlånt til en virksomhed
+- Konklusion (Hvad har du lært/fået ud af opgaven)
+    Jeg har fået en basic SQL forståeelse 
+- Logbog / Opgaveforløb
+    Jeg løste hele opgaven på < 60 minutter inklusiv at se videoen på 44 minutter
